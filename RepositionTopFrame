@@ -1,0 +1,9 @@
+## Interface: 80100
+## Title: RepositionTopFrame
+## Author: Arne Kvaleberg
+## Version: 0.1.5
+## Notes: Repositions the top center frame in battlegrounds (Scores, reinforcements, flags etc).
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: RepositionTopFrame
+RepositionTopFrame.lua
