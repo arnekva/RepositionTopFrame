@@ -1,5 +1,3 @@
-local frame = CreateFrame("Frame")
-
 local f = CreateFrame("Frame")
 f:RegisterEvent("PLAYER_LOGIN")
 
